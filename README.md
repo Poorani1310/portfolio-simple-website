@@ -16,6 +16,6 @@ It includes two pages — a **Home** page to introduce myself and showcase my wo
 
 #### 📂 How to Use
 
-you can access the website by clicking the [link]
+you can access the website by clicking the [link (https://poorani1310.github.io/portfolio-simple-website/)]
 
 Thank u for visiting my portfolio website
